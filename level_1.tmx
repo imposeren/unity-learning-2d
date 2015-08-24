@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Scavengers_SpriteSheet" tilewidth="32" tileheight="32" tilecount="64">
+  <image source="Assets/Sprites/Scavengers_SpriteSheet.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9VcENxCAMYxi6Ay3t3f5b3T2KhCwnITTlYSEFqBM7DTmllBfi+8cRiJNwVIFbijfsjnues7iPNRS4t914s47mw0VyySRWIFZJ7AAOlmdV9mZ8tDikvmm5j/ih+T9Sx4gfq7SS/Gp7zNP+7IxWqz1f4YfWU/gfeDlQ02itdlgtDtYXUl9ZM4F9e7YOrxZPOZ7M/Ig6en1x1Tg8frBef8sPNkOj/bDq+BB9tDdDm489LiP3SPwAZ/psAA==
+  </data>
+ </layer>
+</map>
